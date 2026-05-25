@@ -21,9 +21,19 @@ Search results and your subscriptions feed are **left untouched**.
 ---
 
 ## Screenshots
+### Before
+<p>
+<img width="400" src="https://github.com/user-attachments/assets/3d810edb-711f-40da-9f83-1e7c2a7cb68b" />
+<img width="400" src="https://github.com/user-attachments/assets/16cb6167-d545-41bc-87ff-a9d63cfe9f1b" />
+</p>
 
-<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/7b4dc381-8810-4296-997c-5133556a6131" />
+<br>
 
+### After
+<p>
+<img width="400" src="https://github.com/user-attachments/assets/6c7f072a-0d00-48f5-8b38-e1c19d64a2d2" />
+<img width="400" src="https://github.com/user-attachments/assets/dc5c6efb-efae-4727-b9c3-e42a8bb5191c" />
+</p>
 
 ---
 
